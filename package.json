@@ -1,0 +1,14 @@
+{
+  "name": "ayush-checkout-backend",
+  "version": "1.0.0",
+  "description": "Order-logging backend for Ayush's direct-UPI book checkout",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
